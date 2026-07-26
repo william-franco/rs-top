@@ -2,13 +2,11 @@
 
 Under construction.
 
-
 ## ScreenShots
 
 | Image 1 | Image 2 | Image 3 |
 |----------|----------|----------|
 | ![App Screenshot](assets/screenshots/screen-1.png) | ![App Screenshot](assets/screenshots/screen-2.png) | ![App Screenshot](assets/screenshots/screen-3.png) |
-
 
 ## Examples of commits
 
@@ -25,14 +23,16 @@ git add . && git commit -m ":memo: Adjusted project imports." && git push
 git add . && git commit -m ":arrow_up: Updated dependencies." && git push
 git add . && git commit -m ":arrow_down: Removed dependencies." && git push
 git add . && git commit -m ":wastebasket: Removed unused code." && git push
+git add . && git commit -m ":test_tube: Added test functionality xyz." && git push
+git add . && git commit -m ":construction_worker: Building in progress." && git push
+git add . && git commit -m ":construction_worker: Added CI build system." && git push
 ```
-
 
 ## License
 
 MIT License
 
-Copyright (c) 2025 William Franco
+Copyright (c) 2026 William Franco
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -51,3 +51,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
