@@ -1,6 +1,6 @@
 # Rs Top
 
-Under construction.
+A terminal system monitor built with ratatui and sysinfo, showing per-CPU usage, memory and swap gauges, and a sortable, filterable process table with live refresh.
 
 ## ScreenShots
 
